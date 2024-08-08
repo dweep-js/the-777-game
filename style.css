@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+}
+
+
+
+#gambling {
+    text-align: center;
+    font-size: 100px;
+}
+
+#button {
+   text-align: center;
+}
+
+#play{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    background-color: beige;
+    width: 200px;
+}
+
+#play:hover {
+    background-color: rgb(186, 186, 11);
+}
+
+#state{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
